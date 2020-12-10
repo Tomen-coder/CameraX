@@ -2,6 +2,7 @@
 
 <br>
 
+![Image](/images/photo1.jpg)
 <br>
 
 >Oleksandr Tomenchuk
