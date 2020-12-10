@@ -6,4 +6,4 @@ Robi zdjęcie i zapisuje do folderu pod nazwą "mojaFotka.jpg" <br><br>
 
 ![Image](/images/photo_1.jpg)<br>
 
->Oleksandr Tomenchuk
+>Wykanał: Oleksandr Tomenchuk
