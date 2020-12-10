@@ -1,4 +1,4 @@
-### Android Lab 10
+## Android Lab 10
 
 <br>
 Na poniższym screenie widać że aplikacja działa poprawnie. <br>
